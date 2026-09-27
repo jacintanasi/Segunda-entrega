@@ -1,0 +1,17 @@
+[
+  {
+    "titulo": "Identidad Visual",
+    "descripcion": "Desarrollo de logotipos, paletas de color y sistemas de marca coherentes.",
+    "detalles": "Incluye manual de marca y aplicaciones digitales."
+  },
+  {
+    "titulo": "Diseño Web",
+    "descripcion": "Creación de sitios responsivos con HTML, CSS y JavaScript.",
+    "detalles": "Optimizado para distintos dispositivos y navegadores."
+  },
+  {
+    "titulo": "Diseño Editorial",
+    "descripcion": "Maquetación de revistas, catálogos y piezas impresas.",
+    "detalles": "Trabajo con grillas tipográficas y jerarquía visual."
+  }
+]
